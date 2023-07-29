@@ -1,0 +1,39 @@
+/* first main container  */
+
+.mainCon1{
+    background-color: #F74A66;
+}
+
+/* second main container */
+
+.mainCon2{
+    background-color: wheat;
+}
+
+/* third main container */
+
+.mainCon3{
+    background-color: #E87D6E;
+}
+
+/* fourth main container */
+
+.mainCon4{
+    background-color: white;
+}
+
+/* five main container */
+
+.mainCon5{
+    background-color: #F74A66;
+}
+
+/* six main container */
+
+.mainCon6{}
+
+/* commom css class */
+
+.commonClass{
+    height: 500px;
+}
